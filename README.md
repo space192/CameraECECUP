@@ -8,12 +8,12 @@ en local :
 sudo raspi-config
 ```
 
-![alt text](https://imgur.com/a/DzAHUif)
+![alt text](https://i.imgur.com/XaB0BJw.png)
 
 on va dans la partie interface.
 Ici on active la camera et le SSH si cela n'est pas déjà fait
 
-![alt text](https://imgur.com/a/mcn7KRU)
+![alt text](https://i.imgur.com/Kb0QLCh.png)
 
 on quitte ensuite ensuite raspi-config en redemarant la pi.
 
