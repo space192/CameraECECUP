@@ -11,6 +11,7 @@ mkdir -p /etc/motioneye
 cp /usr/local/share/motioneye/extra/motioneye.conf.sample /etc/motioneye/motioneye.conf
 mkdir -p /var/lib/motioneye
 cp /usr/local/share/motioneye/extra/motioneye.systemd-unit-local /etc/systemd/system/motioneye.service
+cp camera-1.conf /etc/motioneye
 systemctl daemon-reload
 systemctl enable motioneye
 systemctl start motioneye
