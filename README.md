@@ -79,5 +79,6 @@ on va dans la partie system:
 on accede au hostname:
 
 ![alt text](https://i.imgur.com/AdEnco5.png)
+
 ici on rentre le nom de la table et on appuie sur entrer
 puis on redémarrer
