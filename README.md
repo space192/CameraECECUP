@@ -62,3 +62,22 @@ On supprime finalement le dossier
 ```
 sudo rm -rf CameraECECUP
 ```
+
+
+Optionnel Changement du hostname pour fonctionnement sans adresse IP:
+
+on repart dans les configurations du raspberry pi avec:
+```
+sudo raspi-config
+```
+![alt text](https://i.imgur.com/XaB0BJw.png)
+
+on va dans la partie system:
+
+![alt text](https://i.imgur.com/32mBbfc.png)
+
+on accede au hostname:
+
+![alt text](https://i.imgur.com/AdEnco5.png)
+ici on rentre le nom de la table et on appuie sur entrer
+puis on redémarrer
