@@ -2,6 +2,17 @@ Script d'installation
 
 Avant de commencer il faut activer certains paramètres dans la raspberry pi
 
+
+on commence par ouvrir l'invite de commande:
+
+on accède au raspberry pi avec la commande suivante:
+
+```
+ssh pi@table1.local
+mdp: azertykebab
+```
+c'est pas moi le mdp (normalement c'est ca)
+
 en local :
 
 ```
